@@ -1,0 +1,64 @@
+h1{
+    color: pink;
+    font-family: serif;
+    font-size: 72px;
+    border: 2 px solid black;
+    padding: 20px;
+    border-radius: 20px;
+}
+.blueblue{
+    color:white;
+    background-color: blue;
+}
+
+#callme{
+    color: red;
+    background-color: yellow;
+    font-size: 40px;
+    text-align: center;
+}
+.redred{
+    color:red;
+    text-decoration: underline;
+    font-weight: 900;
+    background-color: pink;
+}
+header{
+    background-color: antiquewhite;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+}
+main{
+    background-color:blueviolet;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+}
+button{
+    background-color: lightgreen;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+button:hover{
+    background-color: green;
+}
+section{
+    background-color: bisque;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+}
+footer{
+    background-color: khaki;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+}
